@@ -1,5 +1,5 @@
 # Multiple Stocks Plotter
-A stocks plotter to visualize multiple stocks in the same graph,
+A stocks plotter to visualize multiple stocks in the same chart,
 with separated y axes so that the proportions are the same and 
 the relative changes are more obvious.
 The data is downloaded from Google Finances, and the only valid
