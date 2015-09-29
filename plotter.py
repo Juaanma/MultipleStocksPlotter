@@ -61,7 +61,7 @@ def chart(stocks):
         ax.set_ylabel(col, color=color)
         ax.spines['right'].set_color(color)
 
-    axes[0].set_xlabel('Date')  # Set the x axis label.
+    axes[0].set_xlabel('Fecha')  # Set the x axis label.
 
     plot_sum = lines[0]  # Create a plot with all the lines.
     for l in lines[1:]:

@@ -21,7 +21,7 @@ class MainLayout(QtGui.QWidget):
         # A label of instructions.
         self.label = QtGui.QLabel(self)
         self.label.setText("Ingrese los nombres de las acciones que"
-                           " desea graficar, separadas por comas.")
+                           " desea graficar, separados por comas.")
         self.layout.addWidget(self.label)
 
         self.stocks_input = QtGui.QLineEdit(self)  # Create the input box.
